@@ -1,5 +1,7 @@
 # TwelF - CM12 FLOSS Theme
 
+Forked from https://gitlab.com/xphnx/twelf_cm12_theme.git
+
 TwelF is a Material Design inspired theme for Android Lollipop aiming to provide a consistent and minimalistic look to your device.
 
 ## Requirements
