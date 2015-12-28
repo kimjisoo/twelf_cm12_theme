@@ -23,6 +23,15 @@
 <iconmask img1="iconmask" />
 <iconupon img1="iconupon" />
 
+<!-- my hacks -->
+<item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="wigle" />
+<item component="ComponentInfo{net.daum.android.map/net.daum.android.map.MapMainActivity}" drawable="pocketmaps" />
+<item component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.SplashActivity}" drawable="yaaic" />
+<item component="ComponentInfo{com.xda.one/com.xda.one.ui.MainActivity}" drawable="xdafeedreader" />
+<item component="ComponentInfo{com.catchingnow.tinyclipboardmanager/com.catchingnow.tinyclipboardmanager.ActivityMain}" drawable="networklog" />
+<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity}" drawable="sms" />
+
+
 <!-- System icons -->
 <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="camera2" />
 <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera2" />
