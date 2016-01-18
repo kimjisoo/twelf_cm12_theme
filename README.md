@@ -1,13 +1,14 @@
-# TwelF - CM12 FLOSS Theme
+# TwelF - CM12/CM12.1/CM13 FLOSS Theme
 
 Forked from https://gitlab.com/xphnx/twelf_cm12_theme.git
 
-TwelF is a Material Design inspired theme for Android Lollipop aiming to provide a consistent and minimalistic look to your device.
+TwelF is a Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
 
-## Requirements
+This theme only supports icons for FLOSS apps. Requires a Cyanogenmod Theme Engine compatible ROM (CM12, CM12.1 and CM13 supported). 
+ 
+For CM11 devices take a look at [Onze CM11 Theme](https://gitlab.com/xphnx/onze_cm11_theme).
 
-* A device running the Cyanogenmod 12 ROM (See the [list of supported devices](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/compatible-devices))
-* [F-droid client](https://f-droid.org/) installed (optional, but strongly recommended)
+You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) for requesting icons. As determining if the icons requested are related to FLOSS apps is a tedious work, currently only [F-droid](https://f-droid.org/) hosted apps are supported.
 
 ## Features
 
@@ -25,7 +26,6 @@ TwelF is a Material Design inspired theme for Android Lollipop aiming to provide
 ## More info
 
  * If you are looking for an icon template or some howtos, go to the [**WIKI**](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home)
- * For issues, commenting or icon request, please use the [**ISSUE TRACKER**] (https://gitlab.com/xphnx/twelf_cm12_theme/issues)
  * See the [**FAQ**] (https://gitlab.com/xphnx/twelf_cm12_theme/wikis/faq)
 
 ## Snapshots
@@ -47,6 +47,6 @@ alt="inside afw++" width="300" />
 
 ## License
 
-<img src="http://gplv3.fsf.org/gplv3-127x51.png" />
+<img src="https://gnu.org/graphics/gplv3-127x51.png" />
 
 [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) and other libre or open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CREDITS.md) for more details)

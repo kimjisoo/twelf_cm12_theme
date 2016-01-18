@@ -1,3 +1,47 @@
+**v3.0.1-alpha** (experimental branch)
+
+- New fonts
+- Apps theming
+- New bootanimation
+
+**v3.0.0-alpha** (experimental branch)
+
+- TwelF renamed to Corza
+- New icon
+- New wallpaper and lockscreen
+- UI&system theming
+- CM13 support
+- Icon Request Tool--> Turtl
+- Backgrounds --> probably new standalone app
+
+**v2.9.7**
+
+New icons: drumon, loopboard, doomytorch, aat, clipboardbeam, diktofon, droidshows, droidupnp, graph89, markers, openexplorer, openbikesharing, openlaw, openmensa, pomodoro, rotationmanager, sand, servestream, tvkill, webcamviewer, yaab, fmradio, recurrence, cgeo, dnsman, kiwix, politedroid, worldclock 
+
+Fix icons: quickdic, tutanota, sparss, turtl, sparss
+
+**v2.9.6**
+
+New icons: td, termux, clementineremote, impressremote, webtube
+
+Fix icons: forecastie, cameraCM13
+
+**v2.9.5**
+
+New icons: clipstack, otpauth, notificationnotes, forkhub, forecastie, copay, visualbitcoin, torchlight
+
+Fix icons: easyxkcd, mapsme, xabber, gitlab
+
+Revamp icons: sms, gadgetbridge
+
+**v2.9.4**
+
+New icons: screencast, superuser, gitlab
+
+Fix icons: sms
+
+Revamp icons: pedometer, gadgetbridge
+
 **v2.9.3**
 
 New icons: icsdroid, muzei, omninotes, ttcomics, faceslim

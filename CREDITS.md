@@ -1,28 +1,24 @@
 The code of this app is licensed under GPLv3, based on the code of Cyanogenmod Theme Engine Template (Apache v2).
 
-The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAlike 4.0 International except for the material released under another not compatible license.
+The artwork is licensed under Creative Commons Attribution-NonComercial-ShareAlike 4.0 International except for the material released under another non-compatible licenses.
 
 **Alarm**
 
-Soldiah Beez - Mineral K High Time (CC BY-NC –SA)
+Soldiah Beez - Mineral K High Time (CC BY-NC-SA)
 
 **Ringtone**
 
-No time Ft Marvellous benji - Dub terminator remix (CC BY-NC –SA)
-
-**Fonts**
-
-Lato by tyPoland Łukasz Dziedzic (SIL Open Font License 1.1)
+No time Ft Marvellous benji - Dub terminator remix (CC BY-NC-SA)
 
 **Icon Credits**
 
-Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash, authenticator, navit, lumicall, linphone, fastergps, focal, rmaps, tabulae, simpletask, remotekeyboard, trickytripper, wifikeyboard, standalonecalendar, osmtracker, osmuploader, osmbugs, calendarwidget, osmtracker, firenightly, brouter, turboeditor, redphone, tasks, mitzuli, wifiwarning, yaaic, mybanq, schessclock, chesswatch, lcamera, xposed, vanillamusic, wallpaper, bluetooth, tags, cmupdater, callrecorder, acal, acaldav, caldavsync, networklog, autostarts, aard, jamendo, beamshare, cidrcalc, contactmerger, callerid, puma, applicationsinfo, disablemanager, oandbackup, slightbackup, batteryfu, minumanga, soundrecorder, wally, providersmedia, exchange, floatingstickies, overchan, materialplayer, movim, obscuracam, videoeditor, tacere, arij, birthday-adapter, myapplist, secdroid, antox, orfox, myposition, goblim, busybox, etarcalendar, jaws, mapsme, timber, icsdroid, omninotes, 
+Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash, authenticator, navit, lumicall, linphone, fastergps, focal, rmaps, tabulae, simpletask, remotekeyboard, trickytripper, wifikeyboard, standalonecalendar, osmtracker, osmuploader, osmbugs, calendarwidget, osmtracker, firenightly, brouter, turboeditor, redphone, tasks, mitzuli, wifiwarning, yaaic, mybanq, schessclock, chesswatch, lcamera, xposed, vanillamusic, wallpaper, bluetooth, tags, cmupdater, callrecorder, acal, acaldav, caldavsync, networklog, autostarts, aard, jamendo, beamshare, cidrcalc, contactmerger, callerid, puma, applicationsinfo, disablemanager, oandbackup, slightbackup, batteryfu, minumanga, soundrecorder, wally, providersmedia, exchange, floatingstickies, overchan, materialplayer, movim, obscuracam, videoeditor, tacere, arij, birthday-adapter, myapplist, secdroid, antox, orfox, myposition, goblim, busybox, etarcalendar, jaws, mapsme, timber, icsdroid, omninotes, clipstack, notificationnotes, movecerts
 
 Cyanogenmod (Apache v2): audiofx, themes, onze, twelf, trebuchet
 
 Cyanogenmod (GPL): whisperpush
 
-Austin Andrews @templarian (SIL Open Font License 1.1): calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner, systemappmover, apktrack, wificamera, wifikeyboard, maxima, addi, cidrcalc, repay, timeriffic, worktime, cachecleaner, wifimatic, whohasmystuff, practicehub
+Austin Andrews @templarian (SIL Open Font License 1.1): calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner, systemappmover, apktrack, wificamera, wifikeyboard, maxima, addi, cidrcalc, repay, timeriffic, worktime, cachecleaner, wifimatic, whohasmystuff, practicehub, forecastie, visualbitcoin, otpauth
 
 William Theaker/Robert Martinez(CC BY-SA 3.0): fdroid
 
@@ -108,7 +104,7 @@ Tutanota (GPLv3): tutanota
 
 Sfen (): sfen
 
-Font awesome (Public Domain): github, octodroid
+Font awesome (Public Domain): github, octodroid, forkhub, td
 
 Gigaget (GPLv3+): gigaget
 
@@ -126,7 +122,7 @@ Martin Herr (CC-BY-SA 2.5): openredmine
 
 Vlad Marin (Attribution): logicaldefense
 
-Simpleicon.com (Attribution): fmradio
+Simpleicon.com (Attribution): fmradio, spiritf, transistor
 
 Freepick (Attribution): overchan
 
@@ -161,3 +157,11 @@ Speedmeter: speedmeter
 Easyxkcd: easyxkcd
 
 Muzei: muzei
+
+Bitpay: copay
+
+Clementine (GPLv3): clementineremote
+
+Tanks of Freedom (MIT): tanksoffreedom
+  
+Markers (Apache v2): markers

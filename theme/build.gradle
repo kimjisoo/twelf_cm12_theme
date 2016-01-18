@@ -9,7 +9,7 @@ android {
         minSdkVersion 23
         targetSdkVersion 23
         versionCode 32
-        versionName "2.9.3"
+        versionName "2.9.7"
     }
     buildTypes {
         release {
