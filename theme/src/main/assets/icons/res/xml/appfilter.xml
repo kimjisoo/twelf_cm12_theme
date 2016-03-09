@@ -28,7 +28,18 @@
 <item component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.SplashActivity}" drawable="yaaic" />
 <item component="ComponentInfo{com.xda.one/com.xda.one.ui.MainActivity}" drawable="xdafeedreader" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity}" drawable="sms" />
-
+<item component="ComponentInfo{com.android.vending/com.android.vending.BlankActivity}" drawable="myapplist"/>
+<item component="ComponentInfo{com.intsig.BizCardReader/com.intsig.camcard.BcrFirstLaunchGuide}" drawable="sdscanner"/>
+<item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="worldclock"/>
+<item component="ComponentInfo{com.ecount.erp.center/com.ecount.erp.EcountErpActivity}" drawable="moneybalance"/>
+<item component="ComponentInfo{com.parksmt.jejuair.android16/com.parksmt.jejuair.android16.Startup}" drawable="mercury"/>
+<item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="smsbackup"/>
+<item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="weechat"/>
+<item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="nlpconfig"/>
+<item component="ComponentInfo{com.tomaszmarzeion.notepad/com.example.tomek.notepad.MainActivity}" drawable="omninotes"/>
+<item component="ComponentInfo{org.omnirom.omniswitch/org.omnirom.omniswitch.SettingsActivity}" drawable="kisslauncher"/>
+<item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="servestream"/>
+<item component="ComponentInfo{com.cisco.wx2.android/com.cisco.wx2.android.ui.SplashActivity}" drawable="svgviewer"/>
 
 <!-- System icons -->
 <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="camera2" />
